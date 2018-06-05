@@ -13,3 +13,9 @@ function logWhisper(Hello){
 function sayHiToGrandma(string){
   return string()
 }
+function sayHiToGrandma(string){
+  return string()
+}
+function sayHiToGrandma(string){
+  return string()
+}
